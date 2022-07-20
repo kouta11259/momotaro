@@ -30,6 +30,10 @@ a {
   color: black;
 }
 
+.header-left {
+  color: white;
+}
+  
 .top-wrapper p {
   opacity: 0.7;
   font-size: 15px;
