@@ -20,9 +20,9 @@ a {
 
 .top-wrapper {
   padding: 45px 0 25px 0;
-  background-image: url(http://kids.wanpug.com/illust3613thumb.gif);
-  background-size: contain;
-  background-repeat: no-repeat;
+  image: url(http://kids.wanpug.com/illust3613thumb.gif);
+  size: device-width;
+  repeat: no-repeat;
   color: black;
 }
 
