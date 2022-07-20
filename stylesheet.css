@@ -18,12 +18,8 @@ a {
   text-align: left;
 }
 
-.top-wrapper {
-  padding: 45px 0 25px 0;
-  image: url(http://kids.wanpug.com/illust3613thumb.gif);
-  size: device-width;
-  repeat: no-repeat;
-  color: black;
+.top-image {
+  text-align: center;
 }
 
 .top-wrapper h1 {
