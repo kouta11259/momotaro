@@ -5,6 +5,7 @@
 body {
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN";
+  color:#888888;
 }
 
 a {
@@ -20,6 +21,7 @@ a {
 
 .top-image {
   text-align: center;
+  width: device-width;
 }
 
 .top-wrapper h1 {
