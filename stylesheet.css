@@ -15,14 +15,16 @@ a {
   width: 100%;
   padding: 0 15px;
   margin: 0 auto;
+  text-align: left;
 }
 
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image: url(http://kids.wanpug.com/illust3613thumb.gif);
-  background-size: cover;
-  color: white;
-  text-align: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  color: black;
+  text-align: left;
 }
 
 .top-wrapper h1 {
@@ -33,7 +35,7 @@ a {
 
 .top-wrapper p {
   opacity: 0.7;
-  font-size: 16px;
+  font-size: 20px;
   margin-bottom: 40px;
 }
 
@@ -96,7 +98,7 @@ footer {
 
 .menu-icon {
   color: white;
-  float: right;
+  float: left;
   font-size: 25px;
   padding: 21px 0;
   display: none;
