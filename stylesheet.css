@@ -5,7 +5,7 @@
 body {
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN";
-  background-color:#262626;
+  background-color:262626;
 }
 
 a {
@@ -35,6 +35,8 @@ a {
 
 .header-left {
   color: white;
+  float: left;
+  margin-right: -25px;
 }
   
 .top-wrapper p {
