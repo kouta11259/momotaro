@@ -12,6 +12,10 @@ a {
   text-decoration: none;
 }
 
+.coming-soon {
+  text-align: center;
+}
+
 .container {
   width: 100%;
   padding: 0 15px;
@@ -110,6 +114,35 @@ footer {
   font-size: 25px;
   padding: 21px 0;
   display: none;
+}
+
+.btn-wrapper {
+  text-align: center;
+}
+
+.btn-wrapper p {
+  margin-bottom: 20px;
+}
+
+.schedule {
+  background-color: #239b76;
+}
+
+.btn {
+  padding: 8px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.fa {
+  margin-right: 5px;
 }
 
 .clear {
